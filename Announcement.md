@@ -68,7 +68,7 @@ work and the draft list of terms and definitions.
 We welcome additional collaborators in this activity. If you would like
 to become involved with this project or would like some clarification,
 please contact the Organizers at
-[<span class="underline">terms4FAIRskills@codata.org</span>](mailto:terms4FAISskills@codata.org)
+[<span class="underline">terms4FAIRskills@codata.org</span>](mailto:terms4FAIRskills@codata.org)
 specifying your name, institutional affiliation and the ways in which
 you would like to contribute.
 
