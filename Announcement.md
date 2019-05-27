@@ -116,7 +116,7 @@ FAIRsharing and the University of Oxford, Department of Engineering Science, Oxf
 <td rowspan="3">
 Digital Curation Centre
 </td>
-<th rowspan="3"><img src="InitialAnnouncement/images/image17.png" style="width:1.5in;" />
+<th rowspan="3"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
 </th>
 </tr>
 <tr class="even">
