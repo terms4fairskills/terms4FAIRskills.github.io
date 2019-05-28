@@ -1,1 +1,3 @@
-# terms4fairskills.github.io
+# terms4FAIRskills
+
+
