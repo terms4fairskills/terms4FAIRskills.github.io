@@ -84,6 +84,7 @@ Europe.
 (Organisers = \*)
 
 <table>
+
 <thead>
 <tr class="header">
 <th><strong>Name</strong></th>
@@ -99,7 +100,7 @@ FAIRsharing and the University of Oxford, Department of Engineering Science, Oxf
 </td>
 <td rowspan="4">
 <img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:0.75in" />
-</th>
+</td>
 </tr>
 <tr class="even">
 <td><strong>* Peter McQuilton</strong></td>
@@ -239,4 +240,5 @@ Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL
 <td><img src="InitialAnnouncement/images/image14.png" style="width:0.75in" /></td>
 </tr>
 </tbody>
+
 </table>
