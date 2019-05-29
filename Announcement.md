@@ -1,5 +1,3 @@
-# A terminology for FAIR Stewardship Skills Workshop
-
 ## CODATA, Paris, 20-21 May 2019
 
 ### **What did we do?**
@@ -27,7 +25,7 @@ FAIR. When mature, this will have a variety of use cases, including:
      curricula;
 
   -  to help facilitate the annotation, discovery and evaluation of
-     FAIR-enabling materials (e.g for training) and resources;
+     FAIR-enabling materials (e.g. for training) and resources;
 
   -  to allow the formalisation of job descriptions and CVs with
      recognised competencies.
