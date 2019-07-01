@@ -29,39 +29,39 @@ Angus Whyte (DCC, UK)
 **Annotation groups**  
 
 **Capture and Process**  
-Laura Molloy  
 Frans Huigen  
+Laura Molloy    
 Lennart Stoy  
 
 **Integrate and Analyse**  
-Hugh Shanahan  
 Melanie Imming  
+Hugh Shanahan  
 Angus Whyte  
 
 **Appraise and Preserve**  
+Victoria Dominguez Del Angel  
 Kristina Hettne  
 Yann Le Franc  
-Victoria Dominguez Del Angel  
 
 **Advise and Enable**  
-Susanna-Assunta Sansone  
 Peter McQuilton  
+Susanna-Assunta Sansone  
 
 **Expose and Discover**  
 Peter McQuilton  
-Hugh Shanahan  
 Laura Molloy  
+Hugh Shanahan  
 
 **Govern and Assess**  
-Angus Whyte  
 Celia van Gelder  
-Mateusz Kuzak  
 Yann Le Franc  
+Mateusz Kuzak  
+Angus Whyte  
 
 **Plan and Design; Publish and Release**  
+Celia van Gelder  
 Mateusz Kuzak  
 Yan Wang  
-Celia van Gelder  
 
 **Scope and Resource**  
 Victoria Dominguez Del Angel  
