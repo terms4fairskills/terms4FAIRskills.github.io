@@ -16,27 +16,27 @@ Building a terminology for the skills necessary to make data FAIR and to keep it
 
 **Coordination Group**
 
-Kevin Ashley (DCC, UK)
-Celia van Gelder (DTL/ELIXIR-NL, NL)
-Simon Hodson (CODATA, France)
-Mateusz Kuzak (DTL/ELIXIR-NL, NL)
-Yann Le Franc (e-Science Data Factory, France)
-Peter McQuilton (FAIRsharing/Oxford, UK)
-Susanna-Assunta Sansone (FAIRsharing/Oxford, UK)
-Hugh Shanahan (Royal Holloway, UK)
-Angus Whyte (DCC, UK)
+Kevin Ashley (DCC, UK)  
+Celia van Gelder (DTL/ELIXIR-NL, NL)  
+Simon Hodson (CODATA, France)  
+Mateusz Kuzak (DTL/ELIXIR-NL, NL)  
+Yann Le Franc (e-Science Data Factory, France)  
+Peter McQuilton (FAIRsharing/Oxford, UK)  
+Susanna-Assunta Sansone (FAIRsharing/Oxford, UK)  
+Hugh Shanahan (Royal Holloway, UK)  
+Angus Whyte (DCC, UK)  
 
 **Annotation groups**
 
 **Capture and Process**
-Laura Molloy
-Frans Huigen
-Lennart Stoy
+Laura Molloy\s\s
+Frans Huigen\s\s
+Lennart Stoy\s\s
 
 **Integrate and Analyse**
-Hugh Shanahan
-Melanie Imming
-Angus Whyte
+Hugh Shanahan<br>
+Melanie Imming<br>
+Angus Whyte<br>
 
 **Appraise and Preserve**
 Kristina Hettne
