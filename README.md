@@ -18,9 +18,9 @@ Building a terminology for the skills necessary to make data FAIR and to keep it
 
 Kevin Ashley (DCC, UK)  
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
-Simon Hodson (CODATA, France)  
+Simon Hodson (CODATA, FR)  
 Mateusz Kuzak (DTL/ELIXIR-NL, NL)  
-Yann Le Franc (e-Science Data Factory, France)  
+Yann Le Franc (e-Science Data Factory, FR)  
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Susanna-Assunta Sansone (FAIRsharing/Oxford, UK)  
 Hugh Shanahan (Royal Holloway, UK)  
