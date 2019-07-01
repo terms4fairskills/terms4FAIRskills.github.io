@@ -70,4 +70,4 @@ Simon Hodson
 
 ---
 
-If you have any questions about this work, please contact the organisers on terms4FAIRskills@codata.org
+If you have any questions about this work, please contact the organisers on [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org)
