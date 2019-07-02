@@ -46,6 +46,7 @@ Yann Le Franc
 **Advise and Enable**  
 Allyson Lister  
 Peter McQuilton  
+Philippe Rocca-Serra
 Susanna-Assunta Sansone  
 
 **Expose and Discover**  
