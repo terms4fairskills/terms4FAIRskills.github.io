@@ -44,6 +44,7 @@ Kristina Hettne
 Yann Le Franc  
 
 **Advise and Enable**  
+Allyson Lister  
 Peter McQuilton  
 Susanna-Assunta Sansone  
 
