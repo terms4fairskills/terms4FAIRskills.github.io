@@ -16,7 +16,6 @@ Building a terminology for the skills necessary to make data FAIR and to keep it
 
 **Coordination Group**  
 
-Kevin Ashley (DCC, UK)  
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
 Simon Hodson (CODATA, FR)  
 Mateusz Kuzak (DTL/ELIXIR-NL, NL)  
@@ -50,14 +49,15 @@ Philippe Rocca-Serra
 Susanna-Assunta Sansone  
 
 **Expose and Discover**  
+Frans Huigen  
 Peter McQuilton  
 Laura Molloy  
 Hugh Shanahan  
 
 **Govern and Assess**  
-Celia van Gelder  
-Yann Le Franc  
+Celia van Gelder    
 Mateusz Kuzak  
+Yan Wang  
 Angus Whyte  
 
 **Plan and Design; Publish and Release**  
