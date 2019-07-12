@@ -49,10 +49,12 @@ Philippe Rocca-Serra
 Susanna-Assunta Sansone  
 
 **Expose and Discover**  
+Nancy Hoebelheinrich  
 Frans Huigen  
 Peter McQuilton  
 Laura Molloy  
-Hugh Shanahan  
+Hugh Shanahan 
+Sarah Stewart  
 
 **Govern and Assess**  
 Celia van Gelder    
