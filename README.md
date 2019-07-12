@@ -53,7 +53,7 @@ Nancy Hoebelheinrich
 Frans Huigen  
 Peter McQuilton  
 Laura Molloy  
-Hugh Shanahan 
+Hugh Shanahan  
 Sarah Stewart  
 
 **Govern and Assess**  
