@@ -2,6 +2,14 @@
 
 Building a terminology for the skills necessary to make data FAIR and to keep it FAIR.
 
+The terms4FAIRskills project aims to create a formalised terminology that describes the competencies, skills and knowledge associated with making and keeping data FAIR. When mature, this terminology will apply to a variety of use cases, including:
+- To assist with the creation and assessment of stewardship curricula;
+- To facilitate the annotation, discovery and evaluation of FAIR-enabling materials (e.g. training) and resources;
+- To enable the formalisation of job descriptions and CVs with recognised, structured competencies.
+ 
+The completed terminology will be of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.
+
+
 [Announcement from the first f2f meeting](https://terms4fairskills.github.io/Announcement.html)
 
 ---
@@ -74,4 +82,4 @@ Simon Hodson
 
 ---
 
-If you have any questions about this work, please contact the organisers on [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org)
+The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds. These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAIR, GO-FAIR, FAIRsharing, the Digital Curation Centre, the Dutch Centre for Life Science, DANS, Royal Holloway, Leiden University Libraries, The British Library, Oxford University, European University Association, VU Amsterdam, SURF, European Bioinformatics Institute, Australian Research Data Commons, Digital Repository of Ireland, and TU Delft. New collaborators are joining the project all the time. If you are interested in joining this project, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.
