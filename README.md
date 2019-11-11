@@ -10,9 +10,9 @@ The terms4FAIRskills project aims to create a formalised terminology that descri
 The completed terminology will be of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.
 
 
-[Announcement from the first f2f meeting](https://terms4fairskills.github.io/Announcement.html)
+[Announcement from the first f2f meeting (Paris May 2019)](https://terms4fairskills.github.io/Announcement.html)
   
-[Announcement from the second f2f meeting](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
+[Announcement from the second f2f meeting (The Hague October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
 
 
 ---
