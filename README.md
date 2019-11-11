@@ -11,8 +11,7 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 
 
 [Announcement from the first f2f meeting](https://terms4fairskills.github.io/Announcement.html)
-
-
+  
 [Announcement from the second f2f meeting](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
 
 
