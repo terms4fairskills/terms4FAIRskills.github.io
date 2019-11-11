@@ -37,7 +37,7 @@ https://github.com/terms4fairskills/FAIRterminology
 
 At the meeting in DANS, the following was achieved:
 
-* the terminology was remodelled to more precisely distinguish activities from pedagogical concepts such as Knowledge, Skills and Attributes. 
+* the terminology was remodelled to more precisely distinguish activities from pedagogical concepts such as Knowledge, Skills and Aptitudes. 
 
 * Talks were presented by the collaborations SSHOC, ELIXIR and FAIRsFAIR, which provided insights into how the terminology could be used and extended for their purposes. 
 
