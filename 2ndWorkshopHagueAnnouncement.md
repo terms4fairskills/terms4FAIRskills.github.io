@@ -1,6 +1,6 @@
 ## Major steps forward taken in the building of a terminology for the skills required to make and keep data FAIR.
 
-## Second terms4FAIRskills meeting at DANS headquarters, The Hague, October 16-18, 2019.
+## DANS headquarters, The Hague, October 16-18, 2019.
 
 
 ### **What did we do?**
