@@ -14,6 +14,8 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
   
 [Announcement from the second f2f meeting (The Hague October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
 
+[Ten minute presentation on terms4FAIRskills (ELIXIR AHM 2020, FAIRification Mini Symposium, June 2020)](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be)
+
 
 ---
 
