@@ -37,7 +37,7 @@ In the meantime, progress can be followed here and on our related [terminology r
 
 ### Organisational structure
 
-[The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.html
+[The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.html)
 
 
 ---
