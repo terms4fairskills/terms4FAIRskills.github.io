@@ -6,96 +6,47 @@ The terms4FAIRskills project aims to create a formalised terminology that descri
 - To assist with the creation and assessment of stewardship curricula;
 - To facilitate the annotation, discovery and evaluation of FAIR-enabling materials (e.g. training) and resources;
 - To enable the formalisation of job descriptions and CVs with recognised, structured competencies.
- 
+
 The completed terminology will be of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.
 
 
-[Announcement from the first f2f meeting (Paris May 2019)](https://terms4fairskills.github.io/Announcement.html)
-  
-[Announcement from the second f2f meeting (The Hague October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
+---
 
-[Ten minute presentation on terms4FAIRskills (ELIXIR AHM 2020, FAIRification Mini Symposium, June 2020)](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be)
+
+### Progress to date
+
+terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:
+
+[The first f2f meeting (Paris, FR May 2019)](https://terms4fairskills.github.io/Announcement.html)
+
+[The second f2f meeting (The Hague, NL October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
+
+We have also presented terms4FAIRskills at a number of conferences, including the EOSC Symposium (Budapest, HU, November 2020), and in a FAIRification Mini Symposium at the ELIXIR AHM (virtual, June 2020) (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
+
+In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.
+
+We will continue to develop the FAIR Skills Terminology (FST) with the annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be perfomed using the Semaphora tool and will continue until an initial prototype terminology is created.
+
+We hope to present this terminology by the end of 2020.
+
+In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology)
 
 
 ---
 
-### Organisational structure:  
 
-**Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editional function to ensure consistency in all terminology drafts that are made public.  
-**Annotation groups** - contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
-**Ontology Maintainers** - people with ontology-building experience who lead that part of the process.  
-**Workshop organising committee(s)** - local workshop organisers (in collaboration with the coordination group)  
+### Organisational structure
 
-### Group membership  
+[The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.html
 
-**Coordination Group**  
-
-Celia van Gelder (DTL/ELIXIR-NL, NL)  
-Simon Hodson (CODATA, FR)  
-Mateusz Kuzak (DTL/ELIXIR-NL, NL)  
-Yann Le Franc (e-Science Data Factory, FR)  
-Peter McQuilton (FAIRsharing/Oxford, UK)  
-Susanna-Assunta Sansone (FAIRsharing/Oxford, UK)  
-Hugh Shanahan (Royal Holloway, UK)  
-Angus Whyte (DCC, UK)  
-Kevin Ashley (DCC, UK)  
-Laura Molloy (CODATA, FR)  
-
-**Ontology Maintainers**  
-
-Peter McQuilton (FAIRsharing/Oxford, UK)  
-Allyson Lister (FAIRsharing/Oxford, UK)  
-Yann Le Franc (e-Science Data Factory, FR)  
-
-**Annotation groups**  
-
-**Capture and Process**  
-Frans Huigen  
-Laura Molloy    
-Lennart Stoy  
-
-**Integrate and Analyse**  
-Melanie Imming  
-Hugh Shanahan  
-Angus Whyte  
-
-**Appraise and Preserve**  
-Victoria Dominguez Del Angel  
-Kristina Hettne  
-Yann Le Franc  
-
-**Advise and Enable**  
-Allyson Lister  
-Peter McQuilton  
-Philippe Rocca-Serra  
-Susanna-Assunta Sansone  
-
-**Expose and Discover**  
-Nancy Hoebelheinrich  
-Frans Huigen  
-Peter McQuilton  
-Laura Molloy  
-Hugh Shanahan  
-Sarah Stewart  
-
-**Govern and Assess**  
-Celia van Gelder    
-Mateusz Kuzak  
-Yan Wang  
-Angus Whyte  
-
-**Plan and Design; Publish and Release**  
-Celia van Gelder  
-Mateusz Kuzak  
-Yan Wang  
-
-**Scope and Resource**  
-Victoria Dominguez Del Angel  
-Kristina Hettne  
-Simon Hodson  
 
 ---
 
-The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds. These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAIR, FAIRsharing, GO-FAIR, the Digital Curation Centre, the Dutch Centre for Life Science, DANS, Royal Holloway, Leiden University Libraries, The British Library, Oxford University, European University Association, VU Amsterdam, SURF, European Bioinformatics Institute, Australian Research Data Commons and TU Delft. New collaborators are joining the project all the time. If you are interested in joining this project, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.
+The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds.
+
+These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAIR, FAIRsharing, GO-FAIR, the Digital Curation Centre, the Dutch Centre for Life Science, DANS, Royal Holloway, Leiden University Libraries, The British Library, Oxford University, European University Association, VU Amsterdam, SURF, European Bioinformatics Institute, Australian Research Data Commons and TU Delft.
+
+New collaborators are joining the project all the time. If you are interested in collaborating, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.
 
 ![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")
+![EOSC](img/EOSCsecretariat.png "EOSC")
