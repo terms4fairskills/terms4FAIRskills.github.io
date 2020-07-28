@@ -1,7 +1,7 @@
-## The people behind terms4FAIRskills
-
+## The people behind terms4FAIRskills  
+  
 ### Organisational structure:  
-
+  
 **Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editional function to ensure consistency in all terminology drafts that are made public.  
 **Annotation groups** - contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
 **Ontology Maintainers** - people with ontology-building experience who lead that part of the process.  
