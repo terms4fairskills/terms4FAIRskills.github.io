@@ -25,7 +25,7 @@ We have also presented terms4FAIRskills at a number of conferences, including th
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.
 
-We will continue to develop the FAIR Skills Terminology (FST) with the annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be perfomed using the Semaphora tool and will continue until an initial prototype terminology is created.
+We will continue to develop the FAIR Skills Terminology (FST) with the annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.
 
 We hope to present this terminology by the end of 2020.
 
