@@ -2,7 +2,7 @@
 
 ### Organisational structure:
 
-**Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editoral function to ensure consistency in all terminology drafts that are made public.  
+**Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editorial function to ensure consistency in all terminology drafts that are made public.  
 **Annotation groups** - contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
 **Ontology Maintainers** - people with ontology-building experience who lead that part of the process.  
 **EOSC co creation core team** - those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.  
