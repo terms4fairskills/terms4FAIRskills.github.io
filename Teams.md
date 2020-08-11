@@ -9,7 +9,7 @@
 
 ### Group membership
 
-**Coordination Group**  
+### **Coordination Group**  
 
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
 Simon Hodson (CODATA, FR)  
@@ -20,36 +20,36 @@ Hugh Shanahan (Royal Holloway, UK)
 Angus Whyte (DCC, UK)  
 Laura Molloy (CODATA, FR)  
 
-**Ontology Maintainers**
+### **Ontology Maintainers**
 
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Allyson Lister (FAIRsharing/Oxford, UK)  
 Yann Le Franc (e-Science Data Factory, FR)  
 
-**Annotation groups**
+### **Annotation groups**
 
-**Capture and Process**  
+### **Capture and Process**  
 Frans Huigen  
 Laura Molloy  
 Lennart Stoy  
 
-**Integrate and Analyse**  
+### **Integrate and Analyse**  
 Melanie Imming  
 Hugh Shanahan  
 Angus Whyte  
 
-**Appraise and Preserve**  
+### **Appraise and Preserve**  
 Victoria Dominguez Del Angel  
 Kristina Hettne  
 Yann Le Franc  
 
-**Advise and Enable**  
+### **Advise and Enable**  
 Allyson Lister  
 Peter McQuilton  
 Philippe Rocca-Serra  
 Susanna-Assunta Sansone  
 
-**Expose and Discover**  
+### **Expose and Discover**  
 Nancy Hoebelheinrich  
 Frans Huigen  
 Peter McQuilton  
@@ -57,24 +57,23 @@ Laura Molloy
 Hugh Shanahan  
 Sarah Stewart  
 
-**Govern and Assess**  
+### **Govern and Assess**  
 Celia van Gelder  
 Mateusz Kuzak  
 Yan Wang  
 Angus Whyte  
 
-**Plan and Design; Publish and Release**  
+### **Plan and Design; Publish and Release**  
 Celia van Gelder  
 Mateusz Kuzak  
 Yan Wang  
 
-**Scope and Resource**  
+### **Scope and Resource**  
 Victoria Dominguez Del Angel  
 Kristina Hettne  
 Simon Hodson  
 
-**EOSC co creation core team**  
+### **EOSC co creation core team**  
 Yann Le Franc  
 Laura Molloy  
 Peter McQuilton  
-
