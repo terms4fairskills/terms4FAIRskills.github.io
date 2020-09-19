@@ -1,15 +1,8 @@
-## The people behind terms4FAIRskills
-
-### Organisational structure:
-
-#### **Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editorial function to ensure consistency in all terminology drafts that are made public.  
-#### **Annotation groups** - contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
-#### **Ontology Maintainers** - people with ontology-building experience who lead that part of the process.  
-#### **EOSC co creation core team** - those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.  
-
-### **Group membership**
+## The terms4FAIRskills community
 
 ### **Coordination Group**  
+
+Provides oversight, governance, strategy and ensures progress. Provides an editorial function to ensure consistency in all terminology drafts that are made public.  
 
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
 Simon Hodson (CODATA, FR)  
@@ -21,12 +14,14 @@ Angus Whyte (DCC, UK)
 Laura Molloy (CODATA, FR)  
 
 ### **Ontology Maintainers**
+People with ontology-building experience who lead that part of the process.  
 
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Allyson Lister (FAIRsharing/Oxford, UK)  
 Yann Le Franc (e-Science Data Factory, FR)  
 
 ### **Annotation groups**
+Contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.
 
 ### **Capture and Process**  
 Frans Huigen  
@@ -74,6 +69,8 @@ Kristina Hettne
 Simon Hodson  
 
 ### **EOSC co creation core team**  
+Those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.
+
 Yann Le Franc  
 Laura Molloy  
 Peter McQuilton  

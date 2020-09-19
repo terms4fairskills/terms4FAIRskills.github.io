@@ -46,7 +46,7 @@ The EOSC co-creation award funds three people to work on terms4FAIRskills:
 <td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
-<td><strong>* Laura Molloy</strong></td>
+<td>Laura Molloy</strong></td>
 <td>CODATA, the Committee on Data of the International Science Council</td>
 <td><img src="InitialAnnouncement/images/image13.png" style="width:1.5in" /></td>
 </tr>
@@ -66,13 +66,13 @@ and contributions in kind from the following members of the terms4FAIRskills com
 </thead>
 <tbody>
 <tr class="even">
-<td><strong>* Hugh Shanahan</strong></td>
+<td>Hugh Shanahan</strong></td>
 <td>Royal Holloway, University of London</td>
 <td><img src="InitialAnnouncement/images/image3.jpg" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
-<td><strong>* Celia van Gelder</strong></td>
-Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL</td>
+<td><Celia van Gelder</td>
+<td>Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL</td>
 <td><img src="InitialAnnouncement/images/image11.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
@@ -122,4 +122,4 @@ These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAI
 
 New collaborators are joining the project all the time. If you are interested in collaborating, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.
 
-![EOSC](img/EOSCsecretariat.png "EOSC")
+Page updated September 2020
