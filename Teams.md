@@ -1,4 +1,4 @@
-## The terms4FAIRskills community
+## The terms4FAIRskills community  
 
 ### **Coordination Group**  
 
@@ -13,15 +13,15 @@ Hugh Shanahan (Royal Holloway, UK)
 Angus Whyte (DCC, UK)  
 Laura Molloy (CODATA, FR)  
 
-### **Ontology Maintainers**
+### **Ontology Maintainers**  
 People with ontology-building experience who lead that part of the process.  
 
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Allyson Lister (FAIRsharing/Oxford, UK)  
 Yann Le Franc (e-Science Data Factory, FR)  
 
-### **Annotation groups**
-Contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.
+### **Annotation groups**  
+Contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
 
 ### **Capture and Process**  
 Frans Huigen  
@@ -69,14 +69,14 @@ Kristina Hettne
 Simon Hodson  
 
 ### **EOSC co creation core team**  
-Those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.
+Those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.  
 
 Yann Le Franc  
 Laura Molloy  
 Peter McQuilton  
 
 
-![EOSC](img/EOSCsecretariat.png "EOSC")
-![EOSC-LIFE](img/EOSClogo.png "EOSC-Life")
-![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")
-![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")
+![EOSC](img/EOSCsecretariat.png "EOSC")  
+![EOSC-LIFE](img/EOSClogo.png "EOSC-Life")  
+![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")  
+![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")  

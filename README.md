@@ -43,10 +43,10 @@ The EOSC co-creation award funds three people to work on terms4FAIRskills:
 <tr class="odd">
 <td>Peter McQuilton</td>
 <td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
-<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
+<td><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
-<td>Laura Molloy</strong></td>
+<td>Laura Molloy</td>
 <td>CODATA, the Committee on Data of the International Science Council</td>
 <td><img src="InitialAnnouncement/images/image13.png" style="width:1.5in" /></td>
 </tr>
@@ -66,7 +66,7 @@ and contributions in kind from the following members of the terms4FAIRskills com
 </thead>
 <tbody>
 <tr class="even">
-<td>Hugh Shanahan</strong></td>
+<td>Hugh Shanahan</td>
 <td>Royal Holloway, University of London</td>
 <td><img src="InitialAnnouncement/images/image3.jpg" style="width:1.5in" /></td>
 </tr>
@@ -81,7 +81,7 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
-<td><strong>Angus Whyte</strong></td>
+<td>Angus Whyte</td>
 <td rowspan="2">
 Digital Curation Centre
 </td>
@@ -89,7 +89,7 @@ Digital Curation Centre
 </th>
 </tr>
 <tr class="even">
-<td><strong>Kevin Ashley</strong></td>
+<td>Kevin Ashley</td>
 </tr>
 </tbody>
 </table>
