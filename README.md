@@ -14,6 +14,8 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 
 
 ### Current Status - the EOSC co-creation award July 2020  
+  
+![EOSC](img/EOSCsecretariat.png "EOSC")  
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
@@ -94,7 +96,6 @@ Digital Curation Centre
 </tbody>
 </table>
 
-![EOSC](img/EOSCsecretariat.png "EOSC")  
 
 ---
 
@@ -114,7 +115,7 @@ We have also presented terms4FAIRskills at a number of conferences, including th
 
 ### Organisational Structure
 
-[The people behind terms4FAIRskills](https://terms4fairskills.github.io/community.html)  
+[The terms4FAIRskills Community](https://terms4fairskills.github.io/community.html)  
 
 The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds.  
 
