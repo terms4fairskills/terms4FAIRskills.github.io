@@ -69,14 +69,15 @@ Kristina Hettne
 Simon Hodson  
 
 ### **EOSC co creation core team**  
-Those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.  
+Those members of the terms4FAIRskills community who are funded to directly work on the terminology.  
 
 Yann Le Franc  
 Laura Molloy  
 Peter McQuilton  
 
 
-![EOSC](img/EOSCsecretariat.png "EOSC")  
+![EOSC](img/EOSCsecretariat.png "EOSC")
 ![EOSC-LIFE](img/eosclogo.png "EOSC-Life")  
-![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")  
+![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")
+<img src="img/FAIRsFAIR.png" style="width:1.5in" />
 ![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")  

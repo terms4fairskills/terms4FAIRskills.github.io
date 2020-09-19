@@ -71,7 +71,7 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td><img src="InitialAnnouncement/images/image3.jpg" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
-<td><Celia van Gelder</td>
+<td>Celia van Gelder</td>
 <td>Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL</td>
 <td><img src="InitialAnnouncement/images/image11.png" style="width:1.5in" /></td>
 </tr>
@@ -85,7 +85,7 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td rowspan="2">
 Digital Curation Centre
 </td>
-<th rowspan="3"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
+<th rowspan="2"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
 </th>
 </tr>
 <tr class="even">
