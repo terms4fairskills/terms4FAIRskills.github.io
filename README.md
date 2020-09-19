@@ -13,11 +13,11 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 ---
 
 
-### Current Status
+### Current Status - the EOSC co-creation award July 2020
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.
 
-We will continue to develop the FAIR Skills Terminology (FST) with the annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.
+Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.
 
 We hope to present this terminology by the end of 2020.
 
@@ -38,17 +38,17 @@ The EOSC co-creation award funds three people to work on terms4FAIRskills:
 <tr class="even">
 <td>Yann Le Franc</td>
 <td>e-Science Data Factory, France</td>
-<td><img src="InitialAnnouncement/images/image14.png" style="width:0.75in" /></td>
+<td><img src="InitialAnnouncement/images/image14.png" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
 <td>Peter McQuilton</td>
 <td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
-<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:0.75in" /></td>
+<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
 <td><strong>* Laura Molloy</strong></td>
 <td>CODATA, the Committee on Data of the International Science Council</td>
-<td><img src="InitialAnnouncement/images/image13.png" style="width:0.75in" /></td>
+<td><img src="InitialAnnouncement/images/image13.png" style="width:1.5in" /></td>
 </tr>
 </tbody>
 </table>
@@ -68,21 +68,20 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <tr class="even">
 <td><strong>* Hugh Shanahan</strong></td>
 <td>Royal Holloway, University of London</td>
-<td><img src="InitialAnnouncement/images/image3.jpg" style="width:0.75in" /></td>
+<td><img src="InitialAnnouncement/images/image3.jpg" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
 <td><strong>* Celia van Gelder</strong></td>
-Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL
-</td>
-<img src="InitialAnnouncement/images/image11.png" style="width:0.75in" />
+Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL</td>
+<td><img src="InitialAnnouncement/images/image11.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
 <td>Susanna-Assunta Sansone</td>
 <td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
-<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:0.75in" /></td>
+<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="odd">
-<td><strong>* Angus Whyte</strong></td>
+<td><strong>Angus Whyte</strong></td>
 <td rowspan="2">
 Digital Curation Centre
 </td>
@@ -90,7 +89,7 @@ Digital Curation Centre
 </th>
 </tr>
 <tr class="even">
-<td><strong>* Kevin Ashley</strong></td>
+<td><strong>Kevin Ashley</strong></td>
 </tr>
 </tbody>
 </table>
