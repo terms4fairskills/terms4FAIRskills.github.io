@@ -76,8 +76,7 @@ Laura Molloy
 Peter McQuilton  
 
 
-![EOSC](img/EOSCsecretariat.png "EOSC")
-![EOSC-LIFE](img/eosclogo.png "EOSC-Life")  
-![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")
-<img src="img/FAIRsFAIR.png" style="width:1.5in" />
-![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")  
+<img src="img/EOSCsecretariat.png" style="width:3in" />
+<img src="img/eosclogo.png" style="width:3in" />
+<img src="img/FAIRsFAIR.png" style="width:3in" />
+<img src="InitialAnnouncement/images/GO-FAIR.png" style="width:3in" />
