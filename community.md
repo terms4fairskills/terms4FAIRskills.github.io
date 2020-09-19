@@ -77,7 +77,7 @@ Peter McQuilton
 
 
 <img src="img/EOSCsecretariat.png" style="width:2in" />  
-<img src="img/eosclogo.png" style="width:2in" />  
+<img src="img/eosclogo.png" style="width:1.5in" />  
 <img src="img/FAIRsFAIR.png" style="width:2in" />  
 <img src="InitialAnnouncement/images/image13.png" style="width:2n" />  
 <img src="InitialAnnouncement/images/GO-FAIR.png" style="width:2in" />  
