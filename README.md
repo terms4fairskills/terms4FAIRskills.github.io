@@ -13,15 +13,7 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 ---
 
 
-### Progress to date
-
-terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:
-
-[The first f2f meeting (Paris, FR May 2019)](https://terms4fairskills.github.io/Announcement.html)
-
-[The second f2f meeting (The Hague, NL October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
-
-We have also presented terms4FAIRskills at a number of conferences, including the EOSC Symposium (Budapest, HU, November 2020), and in a FAIRification Mini Symposium at the ELIXIR AHM (virtual, June 2020) (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
+### Current Status
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.
 
@@ -31,11 +23,97 @@ We hope to present this terminology by the end of 2020.
 
 In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology)
 
+The EOSC co-creation award funds three people to work on terms4FAIRskills:
+
+<table>
+
+<thead>
+<tr class="header">
+<th><strong>Name</strong></th>
+<th><strong>Institution</strong></th>
+<th><strong>Logo</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td>Yann Le Franc</td>
+<td>e-Science Data Factory, France</td>
+<td><img src="InitialAnnouncement/images/image14.png" style="width:0.75in" /></td>
+</tr>
+<tr class="odd">
+<td>Peter McQuilton</td>
+<td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
+<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:0.75in" /></td>
+</tr>
+<tr class="even">
+<td><strong>* Laura Molloy</strong></td>
+<td>CODATA, the Committee on Data of the International Science Council</td>
+<td><img src="InitialAnnouncement/images/image13.png" style="width:0.75in" /></td>
+</tr>
+</tbody>
+</table>
+
+and contributions in kind from the following members of the terms4FAIRskills community:
+
+<table>
+
+<thead>
+<tr class="header">
+<th><strong>Name</strong></th>
+<th><strong>Institution</strong></th>
+<th><strong>Logo</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td><strong>* Hugh Shanahan</strong></td>
+<td>Royal Holloway, University of London</td>
+<td><img src="InitialAnnouncement/images/image3.jpg" style="width:0.75in" /></td>
+</tr>
+<tr class="odd">
+<td><strong>* Celia van Gelder</strong></td>
+Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL
+</td>
+<img src="InitialAnnouncement/images/image11.png" style="width:0.75in" />
+</tr>
+<tr class="even">
+<td>Susanna-Assunta Sansone</td>
+<td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
+<td><img src="InitialAnnouncement/images/image10.png" style="width:0.75in;" /><img src="InitialAnnouncement/images/image8.png" style="width:0.75in" /></td>
+</tr>
+<tr class="odd">
+<td><strong>* Angus Whyte</strong></td>
+<td rowspan="2">
+Digital Curation Centre
+</td>
+<th rowspan="3"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
+</th>
+</tr>
+<tr class="even">
+<td><strong>* Kevin Ashley</strong></td>
+</tr>
+</tbody>
+</table>
+
+![EOSC](img/EOSCsecretariat.png "EOSC")
 
 ---
 
 
-### Organisational structure
+### In The Beginning
+
+terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:
+
+[The first f2f meeting (Paris, FR May 2019)](https://terms4fairskills.github.io/Announcement.html)
+
+[The second f2f meeting (The Hague, NL October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)
+
+We have also presented terms4FAIRskills at a number of conferences, including the EOSC Symposium (Budapest, HU, November 2020), and in a FAIRification Mini Symposium at the ELIXIR AHM (virtual, June 2020) (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
+
+---
+
+
+### Organisational Structure
 
 [The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.md)
 
@@ -48,5 +126,4 @@ These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAI
 
 New collaborators are joining the project all the time. If you are interested in collaborating, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.
 
-![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")
 ![EOSC](img/EOSCsecretariat.png "EOSC")
