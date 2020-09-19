@@ -238,6 +238,6 @@ Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL
 
 </table>
 ![EOSC](img/EOSCsecretariat.png "EOSC")
-![EOSC-LIFE](img/EOSClife.png "EOSC")
-![FAIRsFAIR](img/FAIRsFAIR.png "EOSC")
+![EOSC-LIFE](img/EOSClogo.png "EOSC-Life")
+![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")
 ![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")

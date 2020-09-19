@@ -100,7 +100,7 @@ Digital Curation Centre
 ---
 
 
-### In The Beginning
+### How We Started
 
 terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:
 
@@ -116,9 +116,6 @@ We have also presented terms4FAIRskills at a number of conferences, including th
 ### Organisational Structure
 
 [The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.md)
-
-
----
 
 The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds.
 
