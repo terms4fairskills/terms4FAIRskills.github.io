@@ -114,7 +114,7 @@ We have also presented terms4FAIRskills at a number of conferences, including th
 
 ### Organisational Structure
 
-[The people behind terms4FAIRskills](https://terms4fairskills.github.io/Teams.md)  
+[The people behind terms4FAIRskills](https://terms4fairskills.github.io/community.html)  
 
 The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds.  
 
