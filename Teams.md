@@ -77,6 +77,6 @@ Peter McQuilton
 
 
 ![EOSC](img/EOSCsecretariat.png "EOSC")  
-![EOSC-LIFE](img/EOSClogo.png "EOSC-Life")  
+![EOSC-LIFE](img/eosclogo.png "EOSC-Life")  
 ![FAIRsFAIR](img/FAIRsFAIR.png "FAIRsFAIR")  
 ![GO-FAIR](InitialAnnouncement/images/GO-FAIR.png "GO-FAIR")  
