@@ -1,15 +1,8 @@
-## The people behind terms4FAIRskills
-
-### Organisational structure:
-
-**Coordination Group** - provides oversight, governance, strategy and ensures progress. Provides an editorial function to ensure consistency in all terminology drafts that are made public.  
-**Annotation groups** - contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
-**Ontology Maintainers** - people with ontology-building experience who lead that part of the process.  
-**EOSC co creation core team** - those members of the terms4FAIRskills team who are funded to directly work on the terms4FAIRskills terminology.  
-
-### **Group membership**
+## The terms4FAIRskills community  
 
 ### **Coordination Group**  
+
+Provides oversight, governance, strategy and ensures progress. Provides an editorial function to ensure consistency in all terminology drafts that are made public.  
 
 Celia van Gelder (DTL/ELIXIR-NL, NL)  
 Simon Hodson (CODATA, FR)  
@@ -20,13 +13,15 @@ Hugh Shanahan (Royal Holloway, UK)
 Angus Whyte (DCC, UK)  
 Laura Molloy (CODATA, FR)  
 
-### **Ontology Maintainers**
+### **Ontology Maintainers**  
+People with ontology-building experience who lead that part of the process.  
 
 Peter McQuilton (FAIRsharing/Oxford, UK)  
 Allyson Lister (FAIRsharing/Oxford, UK)  
 Yann Le Franc (e-Science Data Factory, FR)  
 
-### **Annotation groups**
+### **Annotation groups**  
+Contributors to the terms and definitions created across the terminology, usually working on a specific section of the terminology, as well as providing annotation and comments on all content.  
 
 ### **Capture and Process**  
 Frans Huigen  
@@ -74,6 +69,15 @@ Kristina Hettne
 Simon Hodson  
 
 ### **EOSC co creation core team**  
+Those members of the terms4FAIRskills community who are funded to directly work on the terminology.  
+
 Yann Le Franc  
 Laura Molloy  
 Peter McQuilton  
+
+
+<img src="img/EOSCsecretariat.png" style="width:2in" />
+<img src="img/eosclogo.png" style="width:1.5in" />
+<img src="img/FAIRsFAIR.png" style="width:2in" />
+<img src="InitialAnnouncement/images/image13.png" style="width:2in" />
+<img src="InitialAnnouncement/images/GO-FAIR.png" style="width:2in" />
