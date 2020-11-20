@@ -25,10 +25,11 @@ Here is a snapshot of our current working model.
 ![T4FS Core model](/img/T4FS_Model_2.png "T4FS Core model")
 
 
-We hope to present a prototype of this terminology in the 1st quarter of 2021.
+**We hope to present a prototype of this terminology in the 1st quarter of 2021.**
 
-In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology)  
+In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology).  
 
+</br>
 The EOSC co-creation award funds three people to work on terms4FAIRskills:  
 
 <table>
@@ -103,7 +104,7 @@ Digital Curation Centre
 
 ---
 
-### How We Started
+### How We Started and Outreach
 
 terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:  
 
@@ -114,7 +115,7 @@ terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordi
 We have presented terms4FAIRskills at a number of conferences, including (but not limited to):
 - EOSC Symposium November 2019 (Budapest, Hungary)
 - FAIRification Mini Symposium (ELIXIR AHM - virtual) June 2020 (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
-- EOSC Symposium October 2020 (virtual) ([slides](https://drive.google.com/file/d/1mMjMO1mdl1UyL4_X43Tv4wqlJBZnf_YC/view?usp=sharing)
+- EOSC Symposium October 2020 (virtual) ([slides](https://drive.google.com/file/d/1mMjMO1mdl1UyL4_X43Tv4wqlJBZnf_YC/view?usp=sharing))
 - CODATA/GO-FAIR Convergence December 2020 (virtual) (slides to come)
 
 ---
@@ -131,6 +132,6 @@ These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAI
 New collaborators are joining the project all the time. If you are interested in collaborating, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.  
 
 
-
+---
 
 Page updated November 2020  
