@@ -29,7 +29,7 @@ Here is a snapshot of our current working model.
 
 In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology).  
 
-<br></br>
+<br>
 The EOSC co-creation award funds three people to work on terms4FAIRskills:  
 
 <table>
