@@ -19,9 +19,13 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
-Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use three real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.  
+Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use a number of real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.  
 
-We hope to present this terminology by the end of 2020.  
+Here is a snapshot of our current working model.
+![T4FS Core model](/img/T4FS_Model_2.png "T4FS Core model")
+
+
+We hope to present a prototype of this terminology in the 1st quarter of 2021.
 
 In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology)  
 
@@ -99,7 +103,6 @@ Digital Curation Centre
 
 ---
 
-
 ### How We Started
 
 terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:  
@@ -108,7 +111,11 @@ terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordi
 
 [The second f2f meeting (The Hague, NL October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)  
 
-We have also presented terms4FAIRskills at a number of conferences, including the EOSC Symposium (Budapest, HU, November 2020), and in a FAIRification Mini Symposium at the ELIXIR AHM (virtual, June 2020) (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))  
+We have presented terms4FAIRskills at a number of conferences, including (but not limited to):
+- EOSC Symposium November 2019 (Budapest, Hungary)
+- FAIRification Mini Symposium (ELIXIR AHM - virtual) June 2020 (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
+- EOSC Symposium October 2020 (virtual) ([slides](https://drive.google.com/file/d/1mMjMO1mdl1UyL4_X43Tv4wqlJBZnf_YC/view?usp=sharing)
+- CODATA/GO-FAIR Convergence December 2020 (virtual) (slides to come)
 
 ---
 
@@ -126,4 +133,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 
 
-Page updated September 2020  
+Page updated November 2020  
