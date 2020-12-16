@@ -134,4 +134,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 ---
 
-Page updated November 2020  
+Page updated November 2020. Website maintained by Peter McQuilton.  
