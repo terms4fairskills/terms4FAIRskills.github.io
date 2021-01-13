@@ -118,6 +118,8 @@ We have presented terms4FAIRskills at a number of conferences, including (but no
 - EOSC Symposium October 2020 (virtual) ([slides](https://drive.google.com/file/d/1mMjMO1mdl1UyL4_X43Tv4wqlJBZnf_YC/view?usp=sharing))
 - CODATA/GO-FAIR Convergence December 2020 (virtual) (slides to come)
 
+[EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/)  
+
 ---
 
 
@@ -134,4 +136,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 ---
 
-Page updated November 2020. Website maintained by Peter McQuilton.  
+Page updated January 2021. Website maintained by Peter McQuilton.  
