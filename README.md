@@ -127,9 +127,9 @@ We have presented terms4FAIRskills at a number of conferences, including (but no
 
 [The terms4FAIRskills Community](https://terms4fairskills.github.io/community.html)  
 
-The terms4FAIRskills project is founded and run by a small group of enthusiasts experts who grasp the significance of this, taken from a variety of backgrounds.  
+The terms4FAIRskills project is founded and run by a small group of enthusiastic experts who grasp the significance of this work, taken from a variety of backgrounds.  
 
-These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, FAIRsFAIR, FAIRsharing, GO-FAIR, the Digital Curation Centre, the Dutch Centre for Life Science, DANS, Royal Holloway, Leiden University Libraries, The British Library, Oxford University, European University Association, VU Amsterdam, SURF, European Bioinformatics Institute, Australian Research Data Commons and TU Delft.  
+These include CODATA, ELIXIR-EMBL-EBI, ELIXIR-FR, ELIXIR-NL, ELIXIR-UK, EOSC-Life, FAIRsFAIR, FAIRsharing, GO-FAIR, the Digital Curation Centre, the Dutch Centre for Life Science, DANS, Royal Holloway, Leiden University Libraries, The British Library, Oxford University, European University Association, VU Amsterdam, SURF, European Bioinformatics Institute, Australian Research Data Commons and TU Delft.  
 
 New collaborators are joining the project all the time. If you are interested in collaborating, please email [terms4FAIRskills@codata.org](mailto:terms4FAIRskills@codata.org) specifying your name, institutional affiliation and how you would like to contribute.  
 
