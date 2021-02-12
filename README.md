@@ -98,6 +98,11 @@ Digital Curation Centre
 <tr class="even">
 <td>Kevin Ashley</td>
 </tr>
+<tr class="odd">
+<td>Victoria Dominguez Del Angel</td>
+<td>Institut Français de Bioinformatique(IFB), ELIXIR-FR</td>
+<td><img src="InitialAnnouncement/images/image22.png" style="width:1.5in" /></td>
+</tr>  
 </tbody>
 </table>
 
