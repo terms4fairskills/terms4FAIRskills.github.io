@@ -22,7 +22,7 @@ In July 2020, we received notification of our successful application for EOSC co
 Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use a number of real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.  
 
 Here is a snapshot of our current working model.
-![T4FS Core model](/img/T4FS_Model_2.png "T4FS Core model")
+![T4FS Core model](/img/T4FS_ModelV3.png "T4FS Core model")
 
 
 **We hope to present a prototype of this terminology in the 1st quarter of 2021.**
