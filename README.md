@@ -104,9 +104,10 @@ Thanks to our successful EOSC co-creation proposal, we continued to develop the 
 
 This has led to a new release of T4FS, which is available [here](https://github.com/terms4fairskills/FAIRterminology).
 
-Currently, T4FS is based on the following model.
+Currently, T4FS is based on the following model:
+  
 ![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
-
+  
 Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://https://doi.org/10.5281/zenodo.4705219).
 
 We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our issue tracker.
