@@ -13,24 +13,14 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 ---
 
 
-### Current Status - the EOSC co-creation award July 2020  
+### Current Status - the EOSC co-creation award July 2020 - February 2021 
   
 ![EOSC](img/EOSCsecretariat.png "EOSC")  
 
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
-Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use a number of real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.  
-
-Here is a snapshot of our current working model.
-![T4FS Core model](/img/T4FS_ModelV3.png "T4FS Core model")
-
-
-**We hope to present a prototype of this terminology in the 1st quarter of 2021.**
-
-In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology).  
-
 <br>
-The EOSC co-creation award funds three people to work on terms4FAIRskills:  
+The EOSC co-creation award funded three people to work on terms4FAIRskills:  
 
 <table>
 
@@ -87,7 +77,18 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
 <td><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
+<tr class="even">
+<td>Susanna-Assunta Sansone</td>
+<td rowspan="2">
+FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK
+</td>
+<th rowspan="2"><img src=""InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /> />
+</th>
+</tr>
 <tr class="odd">
+<td>Allyson Lister</td>
+</tr>
+<tr class="even">
 <td>Angus Whyte</td>
 <td rowspan="2">
 Digital Curation Centre
@@ -95,10 +96,10 @@ Digital Curation Centre
 <th rowspan="2"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
 </th>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Kevin Ashley</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Victoria Dominguez Del Angel</td>
 <td>Institut Français de Bioinformatique(IFB), ELIXIR-FR</td>
 <td><img src="InitialAnnouncement/images/image22.png" style="width:1.5in" /></td>
@@ -106,6 +107,16 @@ Digital Curation Centre
 </tbody>
 </table>
 
+Thanks to our successful EOSC co-creation proposal, we continued to develop the Terms4FAIRskills (T4FS) using two real-life use cases - the CODATA/RDA Summer Schools and the ELIXIR Training Platform Training and Events Portal (TeSS). Through a number of workshops and hackathons, we iteratively annotated a large number of training materials using the Semaphora annotation tool.
+
+This has led to a new release of T4FS, which is available [here](https://github.com/terms4fairskills/FAIRterminology).
+
+Currently, T4FS is based on the following model.
+![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
+
+Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://https://doi.org/10.5281/zenodo.4705219).
+
+We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our issue tracker.
 
 ---
 
@@ -141,4 +152,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 ---
 
-Page updated January 2021. Website maintained by Peter McQuilton.  
+Page updated May 2021. Website maintained by Peter McQuilton.  
