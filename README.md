@@ -12,11 +12,9 @@ The completed terminology will be of use to trainers who teach FAIR data skills,
 
 ---
 
-
-### Current Status - the EOSC co-creation award July 2020 - February 2021 
+![EOSC](img/EOSCsecretariat.png "EOSC") 
+### EOSC co-creation award July 2020 - February 2021 
   
-![EOSC](img/EOSCsecretariat.png "EOSC")  
-
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
 <br>
@@ -71,11 +69,6 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td>Celia van Gelder</td>
 <td>Dutch Techcentre for LIfe Sciences (DTL), ELIXIR-NL</td>
 <td><img src="InitialAnnouncement/images/image11.png" style="width:1.5in" /></td>
-</tr>
-<tr class="even">
-<td>Susanna-Assunta Sansone</td>
-<td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
-<td><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
 </tr>
 <tr class="even">
 <td>Susanna-Assunta Sansone</td>
