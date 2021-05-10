@@ -75,7 +75,7 @@ and contributions in kind from the following members of the terms4FAIRskills com
 <td rowspan="2">
 FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK
 </td>
-<th rowspan="2"><img src=""InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /> />
+<th rowspan="2"><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" />
 </th>
 </tr>
 <tr class="odd">
