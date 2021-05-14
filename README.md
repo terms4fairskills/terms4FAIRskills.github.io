@@ -22,8 +22,6 @@ In July 2020, we received notification of our successful application for EOSC co
 <br>
 Thanks to our successful EOSC co-creation proposal, we continued to develop the Terms4FAIRskills (T4FS) using two real-life use cases - the CODATA/RDA Summer Schools and the ELIXIR Training Platform Training and Events Portal (TeSS). Through a number of workshops and hackathons, we iteratively annotated a large number of training materials using the Semaphora annotation tool.
 
-This has led to a new release of T4FS, which is available [here](https://github.com/terms4fairskills/FAIRterminology).
-
 Currently, T4FS is based on the following model:
   
 ![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
@@ -32,7 +30,7 @@ Our report on this work can be found on Zenodo at the following DOI: [10.5281/ze
 [EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/)   
 [EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/). 
 
-We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our issue tracker.
+We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our [issue tracker](https://github.com/terms4fairskills/FAIRterminology/issues/).
 
 The EOSC co-creation award funded three people to work on terms4FAIRskills:  
 
