@@ -28,9 +28,9 @@ Currently, T4FS is based on the following model:
   
 ![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
   
-Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219) and more information on our work during the award can be found on these two blogs: 
-[EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/) 
-[EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/)
+Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219) and more information on our work during the award can be found on these two blogs:   
+[EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/)   
+[EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/). 
 
 We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our issue tracker.
 
