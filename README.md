@@ -2,35 +2,37 @@
 
 Building a terminology for the skills necessary to make data FAIR and to keep it FAIR.
 
-The terms4FAIRskills project aims to create a formalised terminology that describes the competencies, skills and knowledge associated with making and keeping data FAIR. When mature, this terminology will apply to a variety of use cases, including:
+The terms4FAIRskills project has created a formalised terminology that describes the competencies, skills and knowledge associated with making and keeping data FAIR. This terminology can be used in a variety of use cases, including:
 - To assist with the creation and assessment of stewardship curricula;
 - To facilitate the annotation, discovery and evaluation of FAIR-enabling materials (e.g. training) and resources;
 - To enable the formalisation of job descriptions and CVs with recognised, structured competencies.
 
-The completed terminology will be of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
+terms4FAIRskills is of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
+
+The proof-of-concept terminology is now available at https://github.com/terms4fairskills/FAIRterminology/. 
 
 
 ---
 
-
-### Current Status - the EOSC co-creation award July 2020  
+![EOSC](img/EOSCsecretariat.png "EOSC") 
+### EOSC co-creation award July 2020 - February 2021 
   
-![EOSC](img/EOSCsecretariat.png "EOSC")  
-
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
-Thanks to our successful EOSC co-creation proposal, we will continue to develop the FAIR Skills Terminology (FST) with our annotation and coordination groups to create v0.1 of the terminology. We will use a number of real-world use cases to drive this development to ensure a broad and pragmatic initial spread of terms. These terms will be refined via iterative annotation of training materials. Annotation will be performed using the Semaphora tool and will continue until an initial prototype terminology is created.  
-
-Here is a snapshot of our current working model.
-![T4FS Core model](/img/T4FS_ModelV3.png "T4FS Core model")
-
-
-**We hope to present a prototype of this terminology in the 1st quarter of 2021.**
-
-In the meantime, progress can be followed here and on our related [terminology repository](https://github.com/terms4fairskills/FAIRterminology).  
-
 <br>
-The EOSC co-creation award funds three people to work on terms4FAIRskills:  
+Thanks to our successful EOSC co-creation proposal, we continued to develop the Terms4FAIRskills (T4FS) using two real-life use cases - the CODATA/RDA Summer Schools and the ELIXIR Training Platform Training and Events Portal (TeSS). Through a number of workshops and hackathons, we iteratively annotated a large number of training materials using the Semaphora annotation tool.
+
+Currently, T4FS is based on the following model:
+  
+![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
+  
+Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219) and more information on our work during the award can be found on these two blogs:   
+[EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/)   
+[EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/). 
+
+We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our [issue tracker](https://github.com/terms4fairskills/FAIRterminology/issues/).
+
+The EOSC co-creation award funded three people to work on terms4FAIRskills:  
 
 <table>
 
@@ -84,10 +86,16 @@ and contributions in kind from the following members of the terms4FAIRskills com
 </tr>
 <tr class="even">
 <td>Susanna-Assunta Sansone</td>
-<td>FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK</td>
-<td><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" /></td>
+<td rowspan="2">
+FAIRsharing and the University of Oxford, Department of Engineering Science, Oxford, UK
+</td>
+<th rowspan="2"><img src="InitialAnnouncement/images/image10.png" style="width:1.5in;" /><img src="InitialAnnouncement/images/image8.png" style="width:1.5in" />
+</th>
 </tr>
 <tr class="odd">
+<td>Allyson Lister</td>
+</tr>
+<tr class="even">
 <td>Angus Whyte</td>
 <td rowspan="2">
 Digital Curation Centre
@@ -95,10 +103,10 @@ Digital Curation Centre
 <th rowspan="2"><img src="InitialAnnouncement/images/dcc.png" style="width:1.5in;" />
 </th>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Kevin Ashley</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Victoria Dominguez Del Angel</td>
 <td>Institut Français de Bioinformatique(IFB), ELIXIR-FR</td>
 <td><img src="InitialAnnouncement/images/image22.png" style="width:1.5in" /></td>
@@ -109,7 +117,7 @@ Digital Curation Centre
 
 ---
 
-### How We Started and Outreach
+### How We Started
 
 terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordination meeting in the January of 2019. Since then, we have hosted two workshops:  
 
@@ -117,13 +125,17 @@ terms4FAIRskills sprung out of a community need identified at the GO FAIR Coordi
 
 [The second f2f meeting (The Hague, NL October 2019)](https://terms4fairskills.github.io/2ndWorkshopHagueAnnouncement.html)  
 
+---
+
+### Selected outreach activities
+
 We have presented terms4FAIRskills at a number of conferences, including (but not limited to):
 - EOSC Symposium November 2019 (Budapest, Hungary)
 - FAIRification Mini Symposium (ELIXIR AHM - virtual) June 2020 (see a video of the [ten minute presentation](https://www.youtube.com/watch?v=d21y9glx_fw&feature=youtu.be))
 - EOSC Symposium October 2020 (virtual) ([slides](https://drive.google.com/file/d/1mMjMO1mdl1UyL4_X43Tv4wqlJBZnf_YC/view?usp=sharing))
 - CODATA/GO-FAIR Convergence December 2020 (virtual) (slides to come)
 
-[EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/)  
+ 
 
 ---
 
@@ -141,4 +153,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 ---
 
-Page updated January 2021. Website maintained by Peter McQuilton.  
+Page updated May 2021. Website maintained by Peter McQuilton.  
