@@ -9,7 +9,7 @@ The terms4FAIRskills project has created a formalised terminology that describes
 
 terms4FAIRskills is of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
 
-The proof-of-concept terminology is now available at https://github.com/terms4fairskills/FAIRterminology. 
+The proof-of-concept terminology is now available at https://github.com/terms4fairskills/FAIRterminology/. 
 
 
 ---
