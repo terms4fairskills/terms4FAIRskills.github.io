@@ -14,10 +14,10 @@ The proof-of-concept terminology is now available at [https://github.com/terms4f
 ---
 ### Core Development Team 
 
-Dr Peter McQuilton  
-Dr Laura Molloy  
-Dr Allyson Lister  
-Dr Yann Le Franc  
+Peter McQuilton  
+Laura Molloy  
+Allyson Lister  
+Yann Le Franc  
 
 
 ---
