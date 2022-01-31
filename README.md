@@ -21,6 +21,11 @@ Dr Yann Le Franc
 
 
 ---
+### Next Steps  
+
+We are updating the ontology to conform to the [OBO Principles](https://obofoundry.org/principles/fp-000-summary.html){:target="_blank"} and hope T4FS will be available soon on the OBO Foundry.  
+
+---
 
 ![EOSC](img/EOSCsecretariat.png "EOSC") 
 ### EOSC Co-creation Award July 2020 - February 2021 
