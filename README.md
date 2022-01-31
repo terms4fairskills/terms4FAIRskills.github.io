@@ -9,13 +9,21 @@ The terms4FAIRskills project has created a formalised terminology that describes
 
 terms4FAIRskills is of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
 
-The proof-of-concept terminology is now available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/){:target="_blank"}.
+The proof-of-concept terminology is now available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/){:target="_blank"}
+
+---
+### Core Development Team 
+
+Dr Peter McQuilton  
+Dr Laura Molloy  
+Dr Allyson Lister  
+Dr Yann Le Franc  
 
 
 ---
 
 ![EOSC](img/EOSCsecretariat.png "EOSC") 
-### EOSC co-creation award July 2020 - February 2021 
+### EOSC Co-creation Award July 2020 - February 2021 
   
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
