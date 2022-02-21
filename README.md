@@ -39,7 +39,7 @@ Currently, T4FS is based on the following model:
   
 ![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
   
-Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219/){:target="_blank"} and more information on our work during the award can be found on these two blogs:   
+Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219){:target="_blank"} and more information on our work during the award can be found on these two blogs:   
 [EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/){:target="_blank"}   
 [EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/){:target="_blank"}  
 
