@@ -9,7 +9,7 @@ The terms4FAIRskills project has created a formalised terminology that describes
 
 terms4FAIRskills is of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
 
-The GitHub repository for the terminology is available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/){:target="_blank"}
+The GitHub repository for the terminology is available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/)
 
 ---
 ### Core Development Team 
@@ -28,7 +28,7 @@ We are a member of the the [OBO Foundry](https://obofoundry.org/), which builds 
 ---
 ### Development
 
-We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology){:target="_blank"}. New term requests and queries can be posted on our [issue tracker](https://github.com/terms4fairskills/FAIRterminology/issues/){:target="_blank"}.
+We continue to develop terms4FAIRskills and our latest terminology will always be found in our related [GitHub repository](https://github.com/terms4fairskills/FAIRterminology). New term requests and queries can be posted on our [issue tracker](https://github.com/terms4fairskills/FAIRterminology/issues/).
 
 Currently, T4FS is based on the following model:
   
