@@ -9,13 +9,26 @@ The terms4FAIRskills project has created a formalised terminology that describes
 
 terms4FAIRskills is of use to trainers who teach FAIR data skills, researchers who wish to identify skill gaps in their teams and managers who need to recruit individuals to relevant roles.  
 
-The proof-of-concept terminology is now available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/){:target="_blank"}.
+The proof-of-concept terminology is now available at [https://github.com/terms4fairskills/FAIRterminology/](https://github.com/terms4fairskills/FAIRterminology/){:target="_blank"}
 
+---
+### Core Development Team 
+
+Peter McQuilton  
+Laura Molloy  
+Allyson Lister  
+Yann Le Franc  
+
+
+---
+### Next Steps  
+
+We are updating the ontology to conform to the [OBO Principles](https://obofoundry.org/principles/fp-000-summary.html){:target="_blank"} and hope T4FS will be available soon on the OBO Foundry.  
 
 ---
 
 ![EOSC](img/EOSCsecretariat.png "EOSC") 
-### EOSC co-creation award July 2020 - February 2021 
+### EOSC Co-creation Award July 2020 - February 2021 
   
 In July 2020, we received notification of our successful application for EOSC co-creation funding to continue this work.  
 
@@ -26,7 +39,7 @@ Currently, T4FS is based on the following model:
   
 ![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
   
-Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219/){:target="_blank"} and more information on our work during the award can be found on these two blogs:   
+Our report on this work can be found on Zenodo at the following DOI: [10.5281/zenodo.4705219](https://doi.org/10.5281/zenodo.4705219){:target="_blank"} and more information on our work during the award can be found on these two blogs:   
 [EOSC Co-creation hackathons (virtual, December 2020)](https://codata.org/blog/2020/12/16/terms4fairskills-hackathons-december-2020/){:target="_blank"}   
 [EOSC Co-creation hackathons (virtual, January 2021)](https://codata.org/blog/2021/02/){:target="_blank"}  
 
@@ -155,4 +168,4 @@ New collaborators are joining the project all the time. If you are interested in
 
 ---
 
-Page updated May 2021. Website maintained by Peter McQuilton.  
+Page updated Feb 2022. Website maintained by Peter McQuilton.  
