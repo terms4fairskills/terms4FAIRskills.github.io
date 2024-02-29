@@ -23,7 +23,7 @@ Yann Le Franc
 ---
 ### OBO Foundry
 
-We are a member of the the [OBO Foundry](https://obofoundry.org/), which builds and supports community-developed ontologies according to the [OBO Principles](https://obofoundry.org/principles/fp-000-summary.html){:target="_blank"}. You can find our Foundry record at [https://obofoundry.org/ontology/t4fs.html](https://obofoundry.org/ontology/t4fs.html)
+We are a member of the the [OBO Foundry](https://obofoundry.org/), which builds and supports community-developed ontologies according to the [OBO Principles](https://obofoundry.org/principles/fp-000-summary.html). You can find our Foundry record at [https://obofoundry.org/ontology/t4fs.html](https://obofoundry.org/ontology/t4fs.html)
 
 ---
 ### Development
@@ -32,7 +32,7 @@ We continue to develop terms4FAIRskills and our latest terminology will always b
 
 Currently, T4FS is based on the following model:
   
-![T4FS Core model](/img/T4FS_vEOSC.png "T4FS Core model")
+![T4FS Core model](/img/t4fs-ontology-model.png "T4FS Core model")
 
 ---
 
